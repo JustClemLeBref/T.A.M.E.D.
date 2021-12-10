@@ -91,3 +91,8 @@ Pour valoriser les efforts de chacuns, la categorie `Archive` a été créé. El
   - Travail sur une _smooth map_ pour le platformer 
 - _Ambroise_: Creation de la fonction pour check le content d'un email envoyé
 -_Mathis_: Travail sur l'envoi d'un mail, avec création du bouton send mail, commencement pour regarder si le destinataire, l'objet et le mail est correcte pour valider la tache/ le niveau à l'aide de la fonction check message
+
+#### 10/12/2021
+- A wild _Clement_ appeared:
+  -wild _Clement_ says "hello" 
+  -wild _Clement_ left...
